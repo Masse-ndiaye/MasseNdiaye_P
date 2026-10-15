@@ -37,3 +37,11 @@ export const menu = [
     },
  
  ] 
+export const clik = [
+    {
+        but1:"Voir Projets"
+    },
+    {
+        but2:"Télécharger CV"
+    }
+]
